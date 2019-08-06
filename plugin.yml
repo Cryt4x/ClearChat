@@ -1,0 +1,13 @@
+name: ClearChat
+author: CryT4x, byWadim
+version: 1.1
+api-version: 1.14
+main: de.cryt4x.clearchat.main.Main
+website: https://cryt4x.blogspot.com/
+commands:
+   ccinfo:
+      aliases: [ctpl5]
+      description: Shows info about the plugin!
+   cc:
+      aliases: [clearchat]
+      description: Clears the Chat of you or all players!
