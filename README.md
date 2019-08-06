@@ -1,7 +1,7 @@
 # ClearChat
 A MineCraft Plugin, which helps clearing the Chat if needed!
 
-#Commands
+# Commands
 
 - /cc
 - /cc [Lines Number]
